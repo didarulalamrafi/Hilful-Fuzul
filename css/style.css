@@ -1,0 +1,7 @@
+.img-radius{
+    border-radius: 2%;
+    height: 70vh;
+    /* aspect-ratio: 50%; */
+    aspect-ratio: 16/9; 
+    object-fit: cover;
+}
