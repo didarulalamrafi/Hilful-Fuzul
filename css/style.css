@@ -1,7 +1,20 @@
+
 .img-radius{
     border-radius: 3%;
     max-height: 70vh;
     /* aspect-ratio: 50%; */
     aspect-ratio: 16/9; 
     object-fit: cover;
+}
+
+/* home page end */
+
+/* About page start */
+.deatiles{
+    /* border-radius: 8px; */
+    box-shadow: 2px 2px 6px .6px rgba(0,0,0,0.55);
+    /* box-shadow: rgba(rgb(233, 233, 233), rgb(214, 216, 214), rgb(225, 225, 226), 0.3); */
+}
+.us{
+    background-color: #0eb9631c;
 }
