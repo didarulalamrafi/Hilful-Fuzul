@@ -1,12 +1,13 @@
-
 .img-radius{
-    border-radius: 3%;
+    border-radius: 12px;
     max-height: 70vh;
     /* aspect-ratio: 50%; */
     aspect-ratio: 16/9; 
     object-fit: cover;
 }
-
+body{
+    background-color: #F5F5F5;
+}
 /* home page end */
 
 /* About page start */
@@ -17,4 +18,29 @@
 }
 .us{
     background-color: #0eb9631c;
+}
+
+/* Member page start */
+.member img{
+    height: 50vh;
+    /* aspect-ratio: 90%; */
+    aspect-ratio: 1/1;
+}
+
+/* contract page start */
+.contract-form{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px .2px rgba(0,0,0,0.5);
+}
+.address-info{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px .2px rgba(0,0,0,0.5);
+}
+
+/* All footer */
+footer{
+    background-color: white;
+    padding: 3%;
 }
