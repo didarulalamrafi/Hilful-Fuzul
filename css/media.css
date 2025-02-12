@@ -4,3 +4,12 @@
       margin-right: 3%;
     }
   }
+
+/* member page images css */
+@media (max-width: 768px){
+  .member img{
+    height: 60%;
+    /* width: 55%; */
+  }
+}
+
