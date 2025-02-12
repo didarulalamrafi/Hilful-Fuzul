@@ -4,7 +4,7 @@ header nav ul li a:hover{
     /* border-radius: 6px; */
     border-bottom: 2px solid rgb(245, 241, 8);
 }
-header .nav-link.active {
+header nav ul li a.nav-link.active {
     border-bottom: 2px solid rgb(5, 250, 5);
 }
 
