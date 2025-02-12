@@ -1,3 +1,17 @@
+/* header style */
+header nav ul li a:hover{
+    /* background-color: rgb(54, 156, 14); */
+    /* border-radius: 6px; */
+    border-bottom: 2px solid rgb(245, 241, 8);
+}
+header .nav-link.active {
+    border-bottom: 2px solid rgb(5, 250, 5);
+}
+
+/* header nav ul li a::selection{
+    border-bottom: 4px solid rgb(10, 207, 10);
+} */
+
 .img-radius{
     border-radius: 12px;
     max-height: 70vh;
